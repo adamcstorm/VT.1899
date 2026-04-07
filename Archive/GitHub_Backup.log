@@ -65293,3 +65293,42 @@ sqlite based history database found! Copying...
 From https://github.com/adamcstorm/VT.1899
  * branch              main       -> FETCH_HEAD
 Already up to date.
+[main 6ef2bd51] Autocommit from 2026-04-07 00:00:03
+ 51 files changed, 991 insertions(+), 325 deletions(-)
+ create mode 100644 AFC/mcu/AFC_Turtle_2_mcu.cfg
+ create mode 100644 Hardware/EBB36-gen2.cfg
+ create mode 100644 Hardware/cartographer.cfg
+ create mode 100644 KAMP_Settings.cfg
+ delete mode 100644 ShakeTune_results/belts/beltscomparison_20241221_230447.png
+ create mode 100644 ShakeTune_results/belts/beltscomparison_20260329_092830.png
+ delete mode 100644 ShakeTune_results/input_shaper/inputshaper_20241221_202428_X.png
+ delete mode 100644 ShakeTune_results/input_shaper/inputshaper_20241221_202428_Y.png
+ delete mode 100644 ShakeTune_results/input_shaper/inputshaper_20241221_210446_X.png
+ delete mode 100644 ShakeTune_results/input_shaper/inputshaper_20241221_210446_Y.png
+ delete mode 100644 ShakeTune_results/input_shaper/inputshaper_20241221_232600_X.png
+ delete mode 100644 ShakeTune_results/input_shaper/inputshaper_20241221_232600_Y.png
+ delete mode 100644 ShakeTune_results/input_shaper/inputshaper_20250404_211354_axis_X.png
+ delete mode 100644 ShakeTune_results/input_shaper/inputshaper_20250404_211354_axis_Y.png
+ delete mode 100644 ShakeTune_results/input_shaper/inputshaper_20250615_175254_axis_X.png
+ delete mode 100644 ShakeTune_results/input_shaper/inputshaper_20250615_175254_axis_Y.png
+ delete mode 100644 ShakeTune_results/input_shaper/inputshaper_20250615_180606_axis_X.png
+ delete mode 100644 ShakeTune_results/input_shaper/inputshaper_20250615_180606_axis_Y.png
+ create mode 100644 ShakeTune_results/input_shaper/inputshaper_20260329_094142_axis_X.png
+ create mode 100644 ShakeTune_results/input_shaper/inputshaper_20260329_094142_axis_Y.png
+ create mode 100644 ShakeTune_results/vibrations/vibrationsprofile_20260329_094733.png
+ delete mode 100644 config-20241214-150658.zip
+ delete mode 100644 config-20250614-134415.zip
+ delete mode 100644 config-20250614-134423.zip
+ delete mode 100644 config-20250614-134538.zip
+ delete mode 100644 config-20250624-155811.zip
+ create mode 100644 config_backups/printer-20260228_131904.cfg
+ create mode 100644 config_backups/printer-20260306_182709.cfg
+ create mode 100644 config_backups/printer-20260406_221720.cfg
+ create mode 100644 config_backups/printer-20260406_223244.cfg
+ create mode 120000 timelapse.cfg
+To https://github.com/adamcstorm/VT.1899.git
+   9efce95e..6ef2bd51  main -> main
+sqlite based history database found! Copying...
+From https://github.com/adamcstorm/VT.1899
+ * branch              main       -> FETCH_HEAD
+Already up to date.
