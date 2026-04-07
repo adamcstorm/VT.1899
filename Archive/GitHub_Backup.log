@@ -65289,3 +65289,7 @@ Already up to date.
  3 files changed, 30 insertions(+), 22 deletions(-)
 To https://github.com/adamcstorm/VT.1xxx.git
    eabea658..875d3f82  main -> main
+sqlite based history database found! Copying...
+From https://github.com/adamcstorm/VT.1899
+ * branch              main       -> FETCH_HEAD
+Already up to date.
