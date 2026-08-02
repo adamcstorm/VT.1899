@@ -157,3 +157,9 @@ is_system_service = False
 managed_services = klipper
 info_tags = desc=Cartographer Plugin
 
+[update_manager helixscreen]
+type = web
+channel = stable
+repo = prestonbrown/helixscreen
+path = /home/astorm/helixscreen
+

@@ -95,13 +95,6 @@ channel: stable
 repo: mainsail-crew/mainsail
 path: ~/mainsail
 
-[update_manager fluidd-config]
-type: git_repo
-primary_branch: master
-path: ~/fluidd-config
-origin: https://github.com/fluidd-core/fluidd-config.git
-managed_services: klipper
-
 [update_manager fluidd]
 type: web
 channel: stable
@@ -193,3 +186,12 @@ origin: https://github.com/mainsail-crew/sonar.git
 primary_branch: main
 managed_services: sonar
 system_dependencies: resources/system-dependencies.json
+
+[update_manager cartographer_plugin]
+type: python
+channel: stable
+virtualenv: ~/klippy-env
+project_name: cartographer3d-plugin
+is_system_service: False
+managed_services: klipper
+info_tags: desc=Cartographer Plugin
