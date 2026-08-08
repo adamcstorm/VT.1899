@@ -135,20 +135,7 @@
         "part": "fan"
       },
       "filament": {
-        "auto_color_map": false,
-        "external_spool": {
-          "assigned": true,
-          "bed_temp": 0,
-          "brand": "Sunlu",
-          "color_rgb": 2500645,
-          "material": "ABS",
-          "nozzle_temp_max": 0,
-          "nozzle_temp_min": 0,
-          "remaining_weight_g": 991.242431640625,
-          "spool_name": "Sunlu ABS - Black",
-          "spoolman_id": 202,
-          "total_weight_g": 1000.0
-        }
+        "auto_color_map": false
       },
       "filament_sensors": {
         "master_enabled": true,
@@ -222,13 +209,13 @@
             "tmc5160 stepper_y",
             "temperature_sensor MCU",
             "temperature_sensor chamber_bottom",
-            "temperature_sensor chamber_top",
+            "temperature_sensor chamber",
             "temperature_sensor cartographer_coil",
             "temperature_sensor cartographer",
             "temperature_sensor BoxTurtle",
             "temperature_sensor OWLFC_Mini"
           ],
-          "timestamp": "2026-08-08T16:53:33Z"
+          "timestamp": "2026-08-08T21:32:30Z"
         },
         "optional": [
           "fan_generic internal_fan",
