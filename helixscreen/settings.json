@@ -1,5 +1,8 @@
 {
   "active_printer_id": "default",
+  "ams": {
+    "afc_upgrade_notice_shown": true
+  },
   "config_version": 21,
   "dark_mode": true,
   "display": {
@@ -176,7 +179,7 @@
           "material": "PETG",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 573.5119018554688,
+          "remaining_weight_g": 573.5111083984375,
           "spool_name": "Printed Solid PETG - White",
           "spoolman_id": 108,
           "total_weight_g": 1000.0
@@ -260,7 +263,7 @@
             "temperature_sensor BoxTurtle",
             "temperature_sensor OWLFC_Mini"
           ],
-          "timestamp": "2026-08-09T23:11:08Z"
+          "timestamp": "2026-08-10T18:02:51Z"
         },
         "optional": [
           "fan_generic internal_fan",
