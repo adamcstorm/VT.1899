@@ -44,46 +44,6 @@
     "entries": [
       {
         "phases": {
-          "2": 10
-        },
-        "temp_bucket": 1,
-        "timestamp": 1785642307,
-        "total": 15
-      },
-      {
-        "phases": {
-          "2": 4
-        },
-        "temp_bucket": 1,
-        "timestamp": 1785820558,
-        "total": 13
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 1,
-        "timestamp": 1785902626,
-        "total": 14
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 1,
-        "timestamp": 1785937551,
-        "total": 13
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 1,
-        "timestamp": 1786333773,
-        "total": 12
-      },
-      {
-        "phases": {
           "2": 9
         },
         "temp_bucket": 2,
@@ -137,6 +97,62 @@
         "temp_bucket": 2,
         "timestamp": 1786334179,
         "total": 12
+      },
+      {
+        "phases": {
+          "2": 10
+        },
+        "temp_bucket": 1,
+        "timestamp": 1785642307,
+        "total": 15
+      },
+      {
+        "phases": {
+          "2": 4
+        },
+        "temp_bucket": 1,
+        "timestamp": 1785820558,
+        "total": 13
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 1,
+        "timestamp": 1785902626,
+        "total": 14
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 1,
+        "timestamp": 1785937551,
+        "total": 13
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 1,
+        "timestamp": 1786333773,
+        "total": 12
+      },
+      {
+        "phases": {
+          "2": 10
+        },
+        "temp_bucket": 1,
+        "timestamp": 1786423871,
+        "total": 16
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 1,
+        "timestamp": 1786424205,
+        "total": 12
       }
     ]
   },
@@ -174,14 +190,16 @@
         "external_spool": {
           "assigned": true,
           "bed_temp": 0,
-          "brand": "Printed Solid",
-          "color_rgb": 15199205,
+          "brand": "Creality",
+          "catalog_id": "",
+          "color_rgb": 15085081,
           "material": "PETG",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 573.5111083984375,
-          "spool_name": "Printed Solid PETG - White",
-          "spoolman_id": 108,
+          "product_name": "",
+          "remaining_weight_g": 995.2234497070313,
+          "spool_name": "Red",
+          "spoolman_id": 206,
           "total_weight_g": 1000.0
         }
       },
