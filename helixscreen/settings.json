@@ -186,7 +186,22 @@
         "part": "fan"
       },
       "filament": {
-        "auto_color_map": false
+        "auto_color_map": false,
+        "external_spool": {
+          "assigned": true,
+          "bed_temp": 0,
+          "brand": "Creality",
+          "catalog_id": "",
+          "color_rgb": 15085081,
+          "material": "PETG",
+          "nozzle_temp_max": 0,
+          "nozzle_temp_min": 0,
+          "product_name": "",
+          "remaining_weight_g": 990.4779052734375,
+          "spool_name": "Red",
+          "spoolman_id": 206,
+          "total_weight_g": 1000.0
+        }
       },
       "filament_sensors": {
         "master_enabled": true,
