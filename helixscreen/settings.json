@@ -61,14 +61,6 @@
     "entries": [
       {
         "phases": {
-          "2": 9
-        },
-        "temp_bucket": 2,
-        "timestamp": 1785822522,
-        "total": 14
-      },
-      {
-        "phases": {
           "2": 8
         },
         "temp_bucket": 2,
@@ -170,6 +162,22 @@
         "temp_bucket": 1,
         "timestamp": 1786424205,
         "total": 12
+      },
+      {
+        "phases": {
+          "2": 8
+        },
+        "temp_bucket": 1,
+        "timestamp": 1786630860,
+        "total": 13
+      },
+      {
+        "phases": {
+          "2": 9
+        },
+        "temp_bucket": 1,
+        "timestamp": 1786632018,
+        "total": 14
       }
     ]
   },
@@ -217,7 +225,7 @@
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
           "product_name": "",
-          "remaining_weight_g": 241.77066040039063,
+          "remaining_weight_g": 241.07046508789063,
           "spool_name": "Jeans Red",
           "spoolman_id": 69,
           "total_weight_g": 1000.0
@@ -301,7 +309,7 @@
             "temperature_sensor BoxTurtle",
             "temperature_sensor OWLFC_Mini"
           ],
-          "timestamp": "2026-08-13T05:40:30Z"
+          "timestamp": "2026-08-13T14:38:49Z"
         },
         "optional": [
           "fan_generic internal_fan",
