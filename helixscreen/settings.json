@@ -61,62 +61,6 @@
     "entries": [
       {
         "phases": {
-          "2": 8
-        },
-        "temp_bucket": 2,
-        "timestamp": 1785903489,
-        "total": 13
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 2,
-        "timestamp": 1785904163,
-        "total": 13
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 2,
-        "timestamp": 1785946950,
-        "total": 16
-      },
-      {
-        "phases": {
-          "2": 9
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786230833,
-        "total": 14
-      },
-      {
-        "phases": {
-          "2": 9
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786317099,
-        "total": 14
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786334179,
-        "total": 12
-      },
-      {
-        "phases": {
-          "2": 10
-        },
-        "temp_bucket": 1,
-        "timestamp": 1785642307,
-        "total": 15
-      },
-      {
-        "phases": {
           "2": 4
         },
         "temp_bucket": 1,
@@ -178,6 +122,62 @@
         "temp_bucket": 1,
         "timestamp": 1786632018,
         "total": 14
+      },
+      {
+        "phases": {
+          "2": 8
+        },
+        "temp_bucket": 2,
+        "timestamp": 1785903489,
+        "total": 13
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 2,
+        "timestamp": 1785904163,
+        "total": 13
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 2,
+        "timestamp": 1785946950,
+        "total": 16
+      },
+      {
+        "phases": {
+          "2": 9
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786230833,
+        "total": 14
+      },
+      {
+        "phases": {
+          "2": 9
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786317099,
+        "total": 14
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786334179,
+        "total": 12
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786657527,
+        "total": 12
       }
     ]
   },
@@ -218,16 +218,16 @@
         "external_spool": {
           "assigned": true,
           "bed_temp": 0,
-          "brand": "Overture",
+          "brand": "Geeetech",
           "catalog_id": "",
-          "color_rgb": 13914965,
+          "color_rgb": 12438481,
           "material": "PLA",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
           "product_name": "",
-          "remaining_weight_g": 241.07046508789063,
-          "spool_name": "Jeans Red",
-          "spoolman_id": 69,
+          "remaining_weight_g": 882.1991577148438,
+          "spool_name": "Marble Grey",
+          "spoolman_id": 205,
           "total_weight_g": 1000.0
         }
       },
@@ -281,7 +281,7 @@
             "filament_switch_sensor lane5_load",
             "filament_switch_sensor lane6_prep",
             "filament_switch_sensor lane6_load",
-            "filament_switch_sensor NightOwl_Black_Hub_Hub",
+            "filament_switch_sensor NightOwl_Black_Hub",
             "filament_switch_sensor NO_Black_expanded",
             "filament_switch_sensor NO_Black_compressed",
             "filament_switch_sensor virtual_bypass",
@@ -309,7 +309,7 @@
             "temperature_sensor BoxTurtle",
             "temperature_sensor OWLFC_Mini"
           ],
-          "timestamp": "2026-08-13T14:38:49Z"
+          "timestamp": "2026-08-13T20:31:49Z"
         },
         "optional": [
           "fan_generic internal_fan",
@@ -531,7 +531,7 @@
                 },
                 {
                   "col": 2,
-                  "colspan": 2,
+                  "colspan": 3,
                   "enabled": true,
                   "id": "active_spool",
                   "row": 0,
