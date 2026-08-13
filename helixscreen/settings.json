@@ -1,7 +1,7 @@
 {
   "active_printer_id": "default",
   "ams": {
-    "afc_upgrade_notice_shown": true
+    "afc_upgrade_notice_shown": false
   },
   "config_version": 21,
   "dark_mode": true,
@@ -40,6 +40,23 @@
   "motion": {
     "jog_mode": 1
   },
+  "notifications": {
+    "min_toast_severity": 1
+  },
+  "preset_materials": [
+    {
+      "type": "PLA"
+    },
+    {
+      "type": "PETG"
+    },
+    {
+      "type": "ABS"
+    },
+    {
+      "type": "TPU"
+    }
+  ],
   "print_start_history": {
     "entries": [
       {
@@ -158,6 +175,9 @@
   },
   "printers": {
     "default": {
+      "appearance": {
+        "toolhead_style": 0
+      },
       "default_macros": {
         "cooldown": "SET_HEATER_TEMPERATURE HEATER=extruder TARGET=0\nSET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0",
         "load_filament": {
@@ -190,16 +210,16 @@
         "external_spool": {
           "assigned": true,
           "bed_temp": 0,
-          "brand": "Creality",
+          "brand": "Overture",
           "catalog_id": "",
-          "color_rgb": 15085081,
-          "material": "PETG",
+          "color_rgb": 13914965,
+          "material": "PLA",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
           "product_name": "",
-          "remaining_weight_g": 990.4779052734375,
-          "spool_name": "Red",
-          "spoolman_id": 206,
+          "remaining_weight_g": 241.77066040039063,
+          "spool_name": "Jeans Red",
+          "spoolman_id": 69,
           "total_weight_g": 1000.0
         }
       },
@@ -281,7 +301,7 @@
             "temperature_sensor BoxTurtle",
             "temperature_sensor OWLFC_Mini"
           ],
-          "timestamp": "2026-08-10T18:02:51Z"
+          "timestamp": "2026-08-13T04:50:45Z"
         },
         "optional": [
           "fan_generic internal_fan",
@@ -416,7 +436,7 @@
                 {
                   "col": 5,
                   "colspan": 1,
-                  "enabled": true,
+                  "enabled": false,
                   "id": "led",
                   "row": 2,
                   "rowspan": 1
@@ -454,19 +474,19 @@
                   "rowspan": 2
                 },
                 {
-                  "col": -1,
+                  "col": 5,
                   "colspan": 1,
-                  "enabled": false,
+                  "enabled": true,
                   "id": "chamber_temperature",
-                  "row": -1,
+                  "row": 2,
                   "rowspan": 1
                 },
                 {
-                  "col": -1,
+                  "col": 2,
                   "colspan": 1,
                   "enabled": false,
                   "id": "temp_stack",
-                  "row": -1,
+                  "row": 0,
                   "rowspan": 1
                 },
                 {
@@ -486,11 +506,11 @@
                   "rowspan": 2
                 },
                 {
-                  "col": -1,
+                  "col": 2,
                   "colspan": 3,
-                  "enabled": false,
+                  "enabled": true,
                   "id": "preheat",
-                  "row": -1,
+                  "row": 1,
                   "rowspan": 1
                 },
                 {
@@ -502,11 +522,11 @@
                   "rowspan": 1
                 },
                 {
-                  "col": -1,
-                  "colspan": 1,
-                  "enabled": false,
+                  "col": 2,
+                  "colspan": 2,
+                  "enabled": true,
                   "id": "active_spool",
-                  "row": -1,
+                  "row": 0,
                   "rowspan": 1
                 },
                 {
@@ -622,11 +642,11 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 3,
+                  "col": 4,
                   "colspan": 1,
-                  "enabled": false,
+                  "enabled": true,
                   "id": "bed_temperature",
-                  "row": 3,
+                  "row": 2,
                   "rowspan": 1
                 }
               ]
@@ -642,9 +662,13 @@
         "hotend": "extruder"
       },
       "type": "FlashForge Adventurer 5M Pro",
-      "wizard_completed": true
+      "wizard_completed": true,
+      "z_movement_style": 0
     },
     "show_printer_switcher": false
+  },
+  "standard_macros": {
+    "quick_button_1": "load_filament"
   },
   "telemetry_enabled": false,
   "theme": {
