@@ -61,30 +61,6 @@
     "entries": [
       {
         "phases": {
-          "2": 4
-        },
-        "temp_bucket": 1,
-        "timestamp": 1785820558,
-        "total": 13
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 1,
-        "timestamp": 1785902626,
-        "total": 14
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 1,
-        "timestamp": 1785937551,
-        "total": 13
-      },
-      {
-        "phases": {
           "2": 5
         },
         "temp_bucket": 1,
@@ -125,38 +101,6 @@
       },
       {
         "phases": {
-          "2": 8
-        },
-        "temp_bucket": 2,
-        "timestamp": 1785903489,
-        "total": 13
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 2,
-        "timestamp": 1785904163,
-        "total": 13
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 2,
-        "timestamp": 1785946950,
-        "total": 16
-      },
-      {
-        "phases": {
-          "2": 9
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786230833,
-        "total": 14
-      },
-      {
-        "phases": {
           "2": 9
         },
         "temp_bucket": 2,
@@ -177,6 +121,62 @@
         },
         "temp_bucket": 2,
         "timestamp": 1786657527,
+        "total": 12
+      },
+      {
+        "phases": {
+          "2": 4
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786673910,
+        "total": 12
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786674757,
+        "total": 12
+      },
+      {
+        "phases": {
+          "2": 8
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786675654,
+        "total": 13
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786677581,
+        "total": 12
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786679796,
+        "total": 12
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786681335,
+        "total": 13
+      },
+      {
+        "phases": {
+          "2": 7
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786683538,
         "total": 12
       }
     ]
@@ -218,16 +218,16 @@
         "external_spool": {
           "assigned": true,
           "bed_temp": 0,
-          "brand": "Geeetech",
+          "brand": "Elegoo",
           "catalog_id": "",
-          "color_rgb": 12438481,
+          "color_rgb": 15199205,
           "material": "PLA",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
           "product_name": "",
-          "remaining_weight_g": 882.1991577148438,
-          "spool_name": "Marble Grey",
-          "spoolman_id": 205,
+          "remaining_weight_g": 540.28466796875,
+          "spool_name": "White",
+          "spoolman_id": 188,
           "total_weight_g": 1000.0
         }
       },
@@ -309,7 +309,7 @@
             "temperature_sensor BoxTurtle",
             "temperature_sensor OWLFC_Mini"
           ],
-          "timestamp": "2026-08-13T20:31:49Z"
+          "timestamp": "2026-08-14T04:20:03Z"
         },
         "optional": [
           "fan_generic internal_fan",
