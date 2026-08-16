@@ -225,7 +225,7 @@
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
           "product_name": "",
-          "remaining_weight_g": 539.4064331054688,
+          "remaining_weight_g": 539.4063110351563,
           "spool_name": "White",
           "spoolman_id": 188,
           "total_weight_g": 1000.0
@@ -309,7 +309,7 @@
             "temperature_sensor BoxTurtle",
             "temperature_sensor OWLFC_Mini"
           ],
-          "timestamp": "2026-08-14T04:20:03Z"
+          "timestamp": "2026-08-16T19:38:03Z"
         },
         "optional": [
           "fan_generic internal_fan",
