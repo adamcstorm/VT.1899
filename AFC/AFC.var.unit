@@ -9,6 +9,7 @@
             "buffer_status": "Advancing",
             "lane": 1,
             "map": "T0",
+            "current_map": "T0",
             "load": true,
             "prep": true,
             "tool_loaded": false,
@@ -29,8 +30,7 @@
             "filament_status_led": "#004c00",
             "status": "Loaded",
             "dist_hub": 170.0,
-            "td1_data": {},
-            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane1_prep,lane1_load"
+            "td1_data": {}
         },
         "lane2": {
             "name": "lane2",
@@ -41,6 +41,7 @@
             "buffer_status": "Advancing",
             "lane": 2,
             "map": "T1",
+            "current_map": "T1",
             "load": true,
             "prep": true,
             "tool_loaded": true,
@@ -61,8 +62,7 @@
             "filament_status_led": "#00007f",
             "status": "Tooled",
             "dist_hub": 105.15,
-            "td1_data": {},
-            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane2_prep,lane2_load"
+            "td1_data": {}
         },
         "lane3": {
             "name": "lane3",
@@ -73,6 +73,7 @@
             "buffer_status": "Advancing",
             "lane": 3,
             "map": "T2",
+            "current_map": "T2",
             "load": false,
             "prep": false,
             "tool_loaded": false,
@@ -93,8 +94,7 @@
             "filament_status_led": "#7f0000",
             "status": "None",
             "dist_hub": 107.53,
-            "td1_data": {},
-            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane3_prep,lane3_load"
+            "td1_data": {}
         },
         "lane4": {
             "name": "lane4",
@@ -105,6 +105,7 @@
             "buffer_status": "Advancing",
             "lane": 4,
             "map": "T3",
+            "current_map": "T3",
             "load": true,
             "prep": true,
             "tool_loaded": false,
@@ -125,8 +126,7 @@
             "filament_status_led": "#004c00",
             "status": "Loaded",
             "dist_hub": 174.27,
-            "td1_data": {},
-            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane4_prep,lane4_load"
+            "td1_data": {}
         }
     },
     "NightOwl_Black": {
@@ -139,6 +139,7 @@
             "buffer_status": "Advancing",
             "lane": 1,
             "map": "T4",
+            "current_map": "T4",
             "load": true,
             "prep": true,
             "tool_loaded": false,
@@ -159,8 +160,7 @@
             "filament_status_led": "#004c00",
             "status": "Loaded",
             "dist_hub": 65.12,
-            "td1_data": {},
-            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane5_prep,lane5_load"
+            "td1_data": {}
         },
         "lane6": {
             "name": "lane6",
@@ -171,6 +171,7 @@
             "buffer_status": "Advancing",
             "lane": 2,
             "map": "T5",
+            "current_map": "T5",
             "load": false,
             "prep": false,
             "tool_loaded": false,
@@ -191,8 +192,7 @@
             "filament_status_led": "#7f0000",
             "status": "None",
             "dist_hub": 65.37,
-            "td1_data": {},
-            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane6_prep,lane6_load"
+            "td1_data": {}
         }
     },
     "system": {
