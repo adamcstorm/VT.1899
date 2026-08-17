@@ -309,7 +309,7 @@
             "temperature_sensor BoxTurtle",
             "temperature_sensor OWLFC_Mini"
           ],
-          "timestamp": "2026-08-17T03:51:52Z"
+          "timestamp": "2026-08-17T17:48:29Z"
         },
         "optional": [
           "fan_generic internal_fan",
