@@ -63,54 +63,6 @@
         "phases": {
           "2": 5
         },
-        "temp_bucket": 1,
-        "timestamp": 1786333773,
-        "total": 12
-      },
-      {
-        "phases": {
-          "2": 10
-        },
-        "temp_bucket": 1,
-        "timestamp": 1786423871,
-        "total": 16
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 1,
-        "timestamp": 1786424205,
-        "total": 12
-      },
-      {
-        "phases": {
-          "2": 8
-        },
-        "temp_bucket": 1,
-        "timestamp": 1786630860,
-        "total": 13
-      },
-      {
-        "phases": {
-          "2": 9
-        },
-        "temp_bucket": 1,
-        "timestamp": 1786632018,
-        "total": 14
-      },
-      {
-        "phases": {
-          "2": 9
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786317099,
-        "total": 14
-      },
-      {
-        "phases": {
-          "2": 5
-        },
         "temp_bucket": 2,
         "timestamp": 1786334179,
         "total": 12
@@ -178,6 +130,54 @@
         "temp_bucket": 2,
         "timestamp": 1786683538,
         "total": 12
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 1,
+        "timestamp": 1786333773,
+        "total": 12
+      },
+      {
+        "phases": {
+          "2": 10
+        },
+        "temp_bucket": 1,
+        "timestamp": 1786423871,
+        "total": 16
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 1,
+        "timestamp": 1786424205,
+        "total": 12
+      },
+      {
+        "phases": {
+          "2": 8
+        },
+        "temp_bucket": 1,
+        "timestamp": 1786630860,
+        "total": 13
+      },
+      {
+        "phases": {
+          "2": 9
+        },
+        "temp_bucket": 1,
+        "timestamp": 1786632018,
+        "total": 14
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 1,
+        "timestamp": 1787081157,
+        "total": 12
       }
     ]
   },
@@ -218,16 +218,16 @@
         "external_spool": {
           "assigned": true,
           "bed_temp": 0,
-          "brand": "Elegoo",
+          "brand": "Ambrosia",
           "catalog_id": "",
-          "color_rgb": 15199205,
+          "color_rgb": 9621332,
           "material": "PLA",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
           "product_name": "",
-          "remaining_weight_g": 539.4063110351563,
-          "spool_name": "White",
-          "spoolman_id": 188,
+          "remaining_weight_g": 941.7705688476563,
+          "spool_name": "Green",
+          "spoolman_id": 169,
           "total_weight_g": 1000.0
         }
       },
