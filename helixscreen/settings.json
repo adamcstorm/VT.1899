@@ -372,6 +372,13 @@
                 {
                   "col": 0,
                   "colspan": 3,
+                  "config": {
+                    "show_job_queue": true,
+                    "show_print_files": true,
+                    "show_recent_prints": true,
+                    "show_reprint_last": true,
+                    "show_title": true
+                  },
                   "enabled": true,
                   "id": "print_status",
                   "row": 2,
