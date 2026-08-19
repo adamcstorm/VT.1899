@@ -64,14 +64,6 @@
           "2": 5
         },
         "temp_bucket": 2,
-        "timestamp": 1786334179,
-        "total": 12
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 2,
         "timestamp": 1786657527,
         "total": 12
       },
@@ -178,6 +170,14 @@
         "temp_bucket": 1,
         "timestamp": 1787081157,
         "total": 12
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 1,
+        "timestamp": 1787109601,
+        "total": 13
       }
     ]
   },
@@ -225,7 +225,7 @@
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
           "product_name": "",
-          "remaining_weight_g": 941.7705688476563,
+          "remaining_weight_g": 917.8355102539063,
           "spool_name": "Green",
           "spoolman_id": 169,
           "total_weight_g": 1000.0
