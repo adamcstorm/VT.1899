@@ -217,17 +217,17 @@
         "auto_color_map": false,
         "external_spool": {
           "assigned": true,
-          "bed_temp": 0,
-          "brand": "Elegoo",
+          "bed_temp": 50,
+          "brand": "Inland",
           "catalog_id": "",
-          "color_rgb": 15199205,
+          "color_rgb": 8947848,
           "material": "PLA",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
           "product_name": "",
-          "remaining_weight_g": 462.0643615722656,
-          "spool_name": "White",
-          "spoolman_id": 188,
+          "remaining_weight_g": 963.2681884765625,
+          "spool_name": "Gray",
+          "spoolman_id": 208,
           "total_weight_g": 1000.0
         }
       },
