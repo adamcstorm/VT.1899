@@ -221,14 +221,14 @@
           "bed_temp": 0,
           "brand": "Polymaker",
           "catalog_id": "",
-          "color_rgb": 8149322,
+          "color_rgb": 11236425,
           "material": "PLA",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
           "product_name": "",
-          "remaining_weight_g": 854.7308349609375,
-          "spool_name": "Matte Earth Brown",
-          "spoolman_id": 141,
+          "remaining_weight_g": 530.064697265625,
+          "spool_name": "Matte Wood Brown",
+          "spoolman_id": 170,
           "total_weight_g": 1000.0
         }
       },
