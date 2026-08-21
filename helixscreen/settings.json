@@ -101,14 +101,6 @@
       },
       {
         "phases": {
-          "2": 5
-        },
-        "temp_bucket": 1,
-        "timestamp": 1786333773,
-        "total": 12
-      },
-      {
-        "phases": {
           "2": 10
         },
         "temp_bucket": 1,
@@ -179,6 +171,15 @@
         "timestamp": 1787272441,
         "total": 13,
         "window": 1
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 1,
+        "timestamp": 1787338357,
+        "total": 14,
+        "window": 1
       }
     ]
   },
@@ -215,22 +216,7 @@
         "part": "fan"
       },
       "filament": {
-        "auto_color_map": false,
-        "external_spool": {
-          "assigned": true,
-          "bed_temp": 0,
-          "brand": "Polymaker",
-          "catalog_id": "",
-          "color_rgb": 11236425,
-          "material": "PLA",
-          "nozzle_temp_max": 0,
-          "nozzle_temp_min": 0,
-          "product_name": "",
-          "remaining_weight_g": 530.064697265625,
-          "spool_name": "Matte Wood Brown",
-          "spoolman_id": 170,
-          "total_weight_g": 1000.0
-        }
+        "auto_color_map": false
       },
       "filament_sensors": {
         "master_enabled": true,
