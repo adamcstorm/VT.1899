@@ -61,14 +61,6 @@
     "entries": [
       {
         "phases": {
-          "2": 5
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786674757,
-        "total": 12
-      },
-      {
-        "phases": {
           "2": 8
         },
         "temp_bucket": 2,
@@ -178,6 +170,15 @@
         "temp_bucket": 1,
         "timestamp": 1787187195,
         "total": 14
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 1,
+        "timestamp": 1787272441,
+        "total": 13,
+        "window": 1
       }
     ]
   },
@@ -218,16 +219,16 @@
         "external_spool": {
           "assigned": true,
           "bed_temp": 0,
-          "brand": "Elegoo",
+          "brand": "Polymaker",
           "catalog_id": "",
-          "color_rgb": 2828590,
+          "color_rgb": 8149322,
           "material": "PLA",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
           "product_name": "",
-          "remaining_weight_g": 737.6239013671875,
-          "spool_name": "Black",
-          "spoolman_id": 180,
+          "remaining_weight_g": 854.7308349609375,
+          "spool_name": "Matte Earth Brown",
+          "spoolman_id": 141,
           "total_weight_g": 1000.0
         }
       },
@@ -309,7 +310,7 @@
             "temperature_sensor BoxTurtle",
             "temperature_sensor OWLFC_Mini"
           ],
-          "timestamp": "2026-08-20T16:38:50Z"
+          "timestamp": "2026-08-21T01:25:05Z"
         },
         "optional": [
           "fan_generic internal_fan",
@@ -677,7 +678,7 @@
         "hotend": "extruder"
       },
       "type": "Voron Trident",
-      "type_mismatch_shown_for": "FlashForge Adventurer 5M Pro",
+      "type_mismatch_shown_for": "Voron Trident",
       "wizard_completed": true,
       "z_movement_style": 0
     },
