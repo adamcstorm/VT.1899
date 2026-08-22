@@ -61,14 +61,6 @@
     "entries": [
       {
         "phases": {
-          "2": 8
-        },
-        "temp_bucket": 1,
-        "timestamp": 1786630860,
-        "total": 13
-      },
-      {
-        "phases": {
           "2": 9
         },
         "temp_bucket": 1,
@@ -182,6 +174,15 @@
         "timestamp": 1787374722,
         "total": 13,
         "window": 1
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 2,
+        "timestamp": 1787376014,
+        "total": 10,
+        "window": 1
       }
     ]
   },
@@ -218,22 +219,7 @@
         "part": "fan"
       },
       "filament": {
-        "auto_color_map": false,
-        "external_spool": {
-          "assigned": true,
-          "bed_temp": 0,
-          "brand": "Elegoo",
-          "catalog_id": "",
-          "color_rgb": 31476,
-          "material": "PLA",
-          "nozzle_temp_max": 0,
-          "nozzle_temp_min": 0,
-          "product_name": "",
-          "remaining_weight_g": 903.5769653320313,
-          "spool_name": "Blue",
-          "spoolman_id": 193,
-          "total_weight_g": 1000.0
-        }
+        "auto_color_map": false
       },
       "filament_sensors": {
         "master_enabled": true,
@@ -313,7 +299,7 @@
             "temperature_sensor BoxTurtle",
             "temperature_sensor OWLFC_Mini"
           ],
-          "timestamp": "2026-08-21T01:25:05Z"
+          "timestamp": "2026-08-22T05:19:55Z"
         },
         "optional": [
           "fan_generic internal_fan",
