@@ -63,62 +63,6 @@
         "phases": {
           "2": 8
         },
-        "temp_bucket": 2,
-        "timestamp": 1786675654,
-        "total": 13
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786677581,
-        "total": 12
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786679796,
-        "total": 12
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786681335,
-        "total": 13
-      },
-      {
-        "phases": {
-          "2": 7
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786683538,
-        "total": 12
-      },
-      {
-        "phases": {
-          "2": 10
-        },
-        "temp_bucket": 1,
-        "timestamp": 1786423871,
-        "total": 16
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 1,
-        "timestamp": 1786424205,
-        "total": 12
-      },
-      {
-        "phases": {
-          "2": 8
-        },
         "temp_bucket": 1,
         "timestamp": 1786630860,
         "total": 13
@@ -180,6 +124,64 @@
         "timestamp": 1787338357,
         "total": 14,
         "window": 1
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 1,
+        "timestamp": 1787355561,
+        "total": 13,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 8
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786675654,
+        "total": 13
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786677581,
+        "total": 12
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786679796,
+        "total": 12
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786681335,
+        "total": 13
+      },
+      {
+        "phases": {
+          "2": 7
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786683538,
+        "total": 12
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 2,
+        "timestamp": 1787374722,
+        "total": 13,
+        "window": 1
       }
     ]
   },
@@ -216,7 +218,22 @@
         "part": "fan"
       },
       "filament": {
-        "auto_color_map": false
+        "auto_color_map": false,
+        "external_spool": {
+          "assigned": true,
+          "bed_temp": 0,
+          "brand": "Elegoo",
+          "catalog_id": "",
+          "color_rgb": 31476,
+          "material": "PLA",
+          "nozzle_temp_max": 0,
+          "nozzle_temp_min": 0,
+          "product_name": "",
+          "remaining_weight_g": 903.5769653320313,
+          "spool_name": "Blue",
+          "spoolman_id": 193,
+          "total_weight_g": 1000.0
+        }
       },
       "filament_sensors": {
         "master_enabled": true,
