@@ -219,7 +219,22 @@
         "part": "fan"
       },
       "filament": {
-        "auto_color_map": false
+        "auto_color_map": false,
+        "external_spool": {
+          "assigned": true,
+          "bed_temp": 0,
+          "brand": "Elegoo",
+          "catalog_id": "",
+          "color_rgb": 15085081,
+          "material": "PLA",
+          "nozzle_temp_max": 0,
+          "nozzle_temp_min": 0,
+          "product_name": "",
+          "remaining_weight_g": 898.71923828125,
+          "spool_name": "Red",
+          "spoolman_id": 192,
+          "total_weight_g": 1000.0
+        }
       },
       "filament_sensors": {
         "master_enabled": true,
