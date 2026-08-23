@@ -223,16 +223,16 @@
         "external_spool": {
           "assigned": true,
           "bed_temp": 0,
-          "brand": "Elegoo",
+          "brand": "Sunlu",
           "catalog_id": "",
-          "color_rgb": 15085081,
-          "material": "PLA",
+          "color_rgb": 2500645,
+          "material": "ABS",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
           "product_name": "",
-          "remaining_weight_g": 898.71923828125,
-          "spool_name": "Red",
-          "spoolman_id": 192,
+          "remaining_weight_g": 954.14208984375,
+          "spool_name": "Black",
+          "spoolman_id": 202,
           "total_weight_g": 1000.0
         }
       },
