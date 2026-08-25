@@ -61,14 +61,6 @@
     "entries": [
       {
         "phases": {
-          "2": 9
-        },
-        "temp_bucket": 1,
-        "timestamp": 1786632018,
-        "total": 14
-      },
-      {
-        "phases": {
           "2": 5
         },
         "temp_bucket": 1,
@@ -183,6 +175,15 @@
         "timestamp": 1787376014,
         "total": 10,
         "window": 1
+      },
+      {
+        "phases": {
+          "2": 41
+        },
+        "temp_bucket": 2,
+        "timestamp": 1787629901,
+        "total": 54,
+        "window": 1
       }
     ]
   },
@@ -230,7 +231,7 @@
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
           "product_name": "",
-          "remaining_weight_g": 922.2303466796875,
+          "remaining_weight_g": 894.637451171875,
           "spool_name": "Black",
           "spoolman_id": 202,
           "total_weight_g": 1000.0
