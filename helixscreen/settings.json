@@ -224,16 +224,16 @@
         "external_spool": {
           "assigned": true,
           "bed_temp": 0,
-          "brand": "Sunlu",
+          "brand": "Inland",
           "catalog_id": "",
-          "color_rgb": 2500645,
-          "material": "ABS",
+          "color_rgb": 8421504,
+          "material": "PLA",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
           "product_name": "",
-          "remaining_weight_g": 854.5223388671875,
-          "spool_name": "Black",
-          "spoolman_id": 202,
+          "remaining_weight_g": 656.804443359375,
+          "spool_name": "Luminous Blue",
+          "spoolman_id": 151,
           "total_weight_g": 1000.0
         }
       },
