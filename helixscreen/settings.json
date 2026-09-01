@@ -63,6 +63,65 @@
         "phases": {
           "2": 5
         },
+        "temp_bucket": 2,
+        "timestamp": 1786677581,
+        "total": 12
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786679796,
+        "total": 12
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786681335,
+        "total": 13
+      },
+      {
+        "phases": {
+          "2": 7
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786683538,
+        "total": 12
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 2,
+        "timestamp": 1787374722,
+        "total": 13,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 2,
+        "timestamp": 1787376014,
+        "total": 10,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 41
+        },
+        "temp_bucket": 2,
+        "timestamp": 1787629901,
+        "total": 54,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 5
+        },
         "temp_bucket": 1,
         "timestamp": 1787081157,
         "total": 12
@@ -120,69 +179,11 @@
       },
       {
         "phases": {
-          "2": 8
+          "2": 11
         },
-        "temp_bucket": 2,
-        "timestamp": 1786675654,
-        "total": 13
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786677581,
-        "total": 12
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786679796,
-        "total": 12
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786681335,
-        "total": 13
-      },
-      {
-        "phases": {
-          "2": 7
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786683538,
-        "total": 12
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 2,
-        "timestamp": 1787374722,
-        "total": 13,
-        "window": 1
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 2,
-        "timestamp": 1787376014,
-        "total": 10,
-        "window": 1
-      },
-      {
-        "phases": {
-          "2": 41
-        },
-        "temp_bucket": 2,
-        "timestamp": 1787629901,
-        "total": 54,
+        "temp_bucket": 1,
+        "timestamp": 1788302654,
+        "total": 16,
         "window": 1
       }
     ]
@@ -224,16 +225,16 @@
         "external_spool": {
           "assigned": true,
           "bed_temp": 0,
-          "brand": "Inland",
+          "brand": "Elegoo",
           "catalog_id": "",
-          "color_rgb": 8421504,
+          "color_rgb": 15199205,
           "material": "PLA",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
           "product_name": "",
-          "remaining_weight_g": 576.0176391601563,
-          "spool_name": "Luminous Blue",
-          "spoolman_id": 151,
+          "remaining_weight_g": 225.39797973632813,
+          "spool_name": "White",
+          "spoolman_id": 188,
           "total_weight_g": 1000.0
         }
       },
@@ -695,6 +696,16 @@
   "telemetry_enabled": false,
   "theme": {
     "preset": 0
+  },
+  "thermal": {
+    "rates": {
+      "extruder": {
+        "heat_rate": 0.09113842993974686
+      },
+      "heater_bed": {
+        "heat_rate": 1.2829488515853882
+      }
+    }
   },
   "tour": {
     "completed": true,
