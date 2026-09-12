@@ -3,7 +3,7 @@
   "ams": {
     "afc_upgrade_notice_shown": false
   },
-  "config_version": 21,
+  "config_version": 23,
   "dark_mode": true,
   "display": {
     "animations_enabled": false,
@@ -301,7 +301,7 @@
             "temperature_sensor BoxTurtle",
             "temperature_sensor OWLFC_Mini"
           ],
-          "timestamp": "2026-08-25T19:41:02Z"
+          "timestamp": "2026-09-12T20:53:21Z"
         },
         "optional": [
           "fan_generic internal_fan",
@@ -319,6 +319,10 @@
         "scroll_throw": 25
       },
       "leds": {
+        "auto_paired_bases": [
+          "SET_LOGO_LEDS",
+          "SET_NOZZLE_LEDS"
+        ],
         "color_presets": [
           "#FFFFFF",
           "#FFD700",
@@ -333,7 +337,24 @@
         "last_color": "#FFFFFF",
         "last_white": 0.0,
         "led_on_at_start": false,
-        "macro_devices": [],
+        "macro_devices": [
+          {
+            "name": "Set Logo Leds",
+            "off_macro": "SET_LOGO_LEDS_OFF",
+            "on_macro": "SET_LOGO_LEDS_ON",
+            "presets": [],
+            "toggle_macro": "",
+            "type": "on_off"
+          },
+          {
+            "name": "Set Nozzle Leds",
+            "off_macro": "SET_NOZZLE_LEDS_OFF",
+            "on_macro": "SET_NOZZLE_LEDS_ON",
+            "presets": [],
+            "toggle_macro": "",
+            "type": "on_off"
+          }
+        ],
         "selected": [],
         "selected_strips": [
           "neopixel sb_leds",
