@@ -61,6 +61,67 @@
     "entries": [
       {
         "phases": {
+          "2": 10
+        },
+        "temp_bucket": 1,
+        "timestamp": 1787170598,
+        "total": 15
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 1,
+        "timestamp": 1787187195,
+        "total": 14
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 1,
+        "timestamp": 1787272441,
+        "total": 13,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 1,
+        "timestamp": 1787338357,
+        "total": 14,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 1,
+        "timestamp": 1787355561,
+        "total": 13,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 11
+        },
+        "temp_bucket": 1,
+        "timestamp": 1788302654,
+        "total": 16,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 9
+        },
+        "temp_bucket": 1,
+        "timestamp": 1790138202,
+        "total": 14,
+        "window": 1
+      },
+      {
+        "phases": {
           "2": 5
         },
         "temp_bucket": 2,
@@ -123,68 +184,8 @@
         "phases": {
           "2": 5
         },
-        "temp_bucket": 1,
-        "timestamp": 1787109601,
-        "total": 13
-      },
-      {
-        "phases": {
-          "2": 10
-        },
-        "temp_bucket": 1,
-        "timestamp": 1787170598,
-        "total": 15
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 1,
-        "timestamp": 1787187195,
-        "total": 14
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 1,
-        "timestamp": 1787272441,
-        "total": 13,
-        "window": 1
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 1,
-        "timestamp": 1787338357,
-        "total": 14,
-        "window": 1
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 1,
-        "timestamp": 1787355561,
-        "total": 13,
-        "window": 1
-      },
-      {
-        "phases": {
-          "2": 11
-        },
-        "temp_bucket": 1,
-        "timestamp": 1788302654,
-        "total": 16,
-        "window": 1
-      },
-      {
-        "phases": {
-          "2": 9
-        },
-        "temp_bucket": 1,
-        "timestamp": 1790138202,
+        "temp_bucket": 2,
+        "timestamp": 1790893589,
         "total": 14,
         "window": 1
       }
