@@ -111,23 +111,6 @@
           "2": 5
         },
         "temp_bucket": 1,
-        "timestamp": 1787187195,
-        "total": 14
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 1,
-        "timestamp": 1787272441,
-        "total": 13,
-        "window": 1
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 1,
         "timestamp": 1787338357,
         "total": 14,
         "window": 1
@@ -193,6 +176,24 @@
         "temp_bucket": 1,
         "timestamp": 1791582812,
         "total": 13,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 1,
+        "timestamp": 1791663501,
+        "total": 12,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 1,
+        "timestamp": 1791669687,
+        "total": 19,
         "window": 1
       }
     ]
