@@ -63,15 +63,6 @@
     "entries": [
       {
         "phases": {
-          "2": 4
-        },
-        "temp_bucket": 1,
-        "timestamp": 1791756640,
-        "total": 16,
-        "window": 1
-      },
-      {
-        "phases": {
           "2": 5
         },
         "temp_bucket": 1,
@@ -110,9 +101,9 @@
         "phases": {
           "2": 5
         },
-        "temp_bucket": 2,
-        "timestamp": 1792125213,
-        "total": 12,
+        "temp_bucket": 1,
+        "timestamp": 1792850024,
+        "total": 13,
         "window": 1
       },
       {
@@ -194,6 +185,15 @@
         "temp_bucket": 2,
         "timestamp": 1792704298,
         "total": 13,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 2,
+        "timestamp": 1792851865,
+        "total": 12,
         "window": 1
       }
     ]
@@ -311,7 +311,7 @@
             "temperature_sensor BoxTurtle",
             "temperature_sensor OWLFC_Mini"
           ],
-          "timestamp": "2026-10-23T03:45:13Z"
+          "timestamp": "2026-10-24T14:22:24Z"
         },
         "optional": [
           "fan_generic internal_fan",
