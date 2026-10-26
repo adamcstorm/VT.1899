@@ -63,15 +63,6 @@
     "entries": [
       {
         "phases": {
-          "2": 13
-        },
-        "temp_bucket": 2,
-        "timestamp": 1792246667,
-        "total": 27,
-        "window": 1
-      },
-      {
-        "phases": {
           "2": 36
         },
         "temp_bucket": 2,
@@ -193,6 +184,15 @@
         },
         "temp_bucket": 1,
         "timestamp": 1793020274,
+        "total": 14,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 1,
+        "timestamp": 1793037721,
         "total": 14,
         "window": 1
       }
