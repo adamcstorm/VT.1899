@@ -63,60 +63,6 @@
     "entries": [
       {
         "phases": {
-          "2": 5
-        },
-        "temp_bucket": 1,
-        "timestamp": 1792014195,
-        "total": 12,
-        "window": 1
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 1,
-        "timestamp": 1792036843,
-        "total": 12,
-        "window": 1
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 1,
-        "timestamp": 1792123273,
-        "total": 14,
-        "window": 1
-      },
-      {
-        "phases": {
-          "2": 8
-        },
-        "temp_bucket": 1,
-        "timestamp": 1792684833,
-        "total": 13,
-        "window": 1
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 1,
-        "timestamp": 1792850024,
-        "total": 13,
-        "window": 1
-      },
-      {
-        "phases": {
-          "2": 15
-        },
-        "temp_bucket": 2,
-        "timestamp": 1792208927,
-        "total": 30,
-        "window": 1
-      },
-      {
-        "phases": {
           "2": 13
         },
         "temp_bucket": 2,
@@ -194,6 +140,60 @@
         "temp_bucket": 2,
         "timestamp": 1792957348,
         "total": 12,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 1,
+        "timestamp": 1792014195,
+        "total": 12,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 1,
+        "timestamp": 1792036843,
+        "total": 12,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 1,
+        "timestamp": 1792123273,
+        "total": 14,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 8
+        },
+        "temp_bucket": 1,
+        "timestamp": 1792684833,
+        "total": 13,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 1,
+        "timestamp": 1792850024,
+        "total": 13,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 1,
+        "timestamp": 1793020274,
+        "total": 14,
         "window": 1
       }
     ]
@@ -311,7 +311,7 @@
             "temperature_sensor BoxTurtle",
             "temperature_sensor OWLFC_Mini"
           ],
-          "timestamp": "2026-10-26T01:19:20Z"
+          "timestamp": "2026-10-26T15:19:02Z"
         },
         "optional": [
           "fan_generic internal_fan",
