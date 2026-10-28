@@ -200,6 +200,9 @@
   },
   "printers": {
     "default": {
+      "ams": {
+        "keep_spool_info_on_eject": false
+      },
       "appearance": {
         "toolhead_style": 0
       },
