@@ -63,69 +63,6 @@
     "entries": [
       {
         "phases": {
-          "2": 36
-        },
-        "temp_bucket": 2,
-        "timestamp": 1792535215,
-        "total": 50,
-        "window": 1
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 2,
-        "timestamp": 1792701849,
-        "total": 13,
-        "window": 1
-      },
-      {
-        "phases": {
-          "2": 4
-        },
-        "temp_bucket": 2,
-        "timestamp": 1792704298,
-        "total": 13,
-        "window": 1
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 2,
-        "timestamp": 1792851865,
-        "total": 12,
-        "window": 1
-      },
-      {
-        "phases": {
-          "2": 8
-        },
-        "temp_bucket": 2,
-        "timestamp": 1792871232,
-        "total": 13,
-        "window": 1
-      },
-      {
-        "phases": {
-          "2": 7
-        },
-        "temp_bucket": 2,
-        "timestamp": 1792957348,
-        "total": 12,
-        "window": 1
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 1,
-        "timestamp": 1792014195,
-        "total": 12,
-        "window": 1
-      },
-      {
-        "phases": {
           "2": 5
         },
         "temp_bucket": 1,
@@ -194,6 +131,69 @@
         "temp_bucket": 1,
         "timestamp": 1793540379,
         "total": 13,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 36
+        },
+        "temp_bucket": 2,
+        "timestamp": 1792535215,
+        "total": 50,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 2,
+        "timestamp": 1792701849,
+        "total": 13,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 4
+        },
+        "temp_bucket": 2,
+        "timestamp": 1792704298,
+        "total": 13,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 2,
+        "timestamp": 1792851865,
+        "total": 12,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 8
+        },
+        "temp_bucket": 2,
+        "timestamp": 1792871232,
+        "total": 13,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 7
+        },
+        "temp_bucket": 2,
+        "timestamp": 1792957348,
+        "total": 12,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 7
+        },
+        "temp_bucket": 2,
+        "timestamp": 1793652681,
+        "total": 12,
         "window": 1
       }
     ]
