@@ -1,1 +1,26 @@
-{}
+{
+  "printers": {
+    "default": {
+      "2": {
+        "remaining_weight_g": 37.764102935791016,
+        "spool_name": "Black",
+        "spoolman_id": 180
+      },
+      "3": {
+        "remaining_weight_g": 117.35071563720703,
+        "spool_name": "White",
+        "spoolman_id": 211
+      },
+      "4": {
+        "remaining_weight_g": 486.15911865234375,
+        "spool_name": "Matte Red",
+        "spoolman_id": 157
+      },
+      "5": {
+        "remaining_weight_g": 893.0,
+        "spool_name": "Silk Gold",
+        "spoolman_id": 198
+      }
+    }
+  }
+}

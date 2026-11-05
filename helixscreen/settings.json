@@ -63,15 +63,6 @@
     "entries": [
       {
         "phases": {
-          "2": 5
-        },
-        "temp_bucket": 2,
-        "timestamp": 1792701849,
-        "total": 13,
-        "window": 1
-      },
-      {
-        "phases": {
           "2": 4
         },
         "temp_bucket": 2,
@@ -195,6 +186,15 @@
         "timestamp": 1793672834,
         "total": 12,
         "window": 1
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 1,
+        "timestamp": 1793845407,
+        "total": 13,
+        "window": 1
       }
     ]
   },
@@ -227,9 +227,9 @@
       },
       "extra_sensors": {},
       "fans": {
-        "aux": "fan_generic internal_fan",
+        "aux": "",
         "chamber": "fan_generic nevermore",
-        "exhaust": "fan_generic nevermore",
+        "exhaust": "",
         "hotend": "heater_fan hotend_fan",
         "part": "fan"
       },
@@ -314,7 +314,7 @@
             "temperature_sensor BoxTurtle",
             "temperature_sensor OWLFC_Mini"
           ],
-          "timestamp": "2026-11-03T04:36:48Z"
+          "timestamp": "2026-11-05T02:09:35Z"
         },
         "optional": [
           "fan_generic internal_fan",
