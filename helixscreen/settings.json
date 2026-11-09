@@ -63,33 +63,6 @@
     "entries": [
       {
         "phases": {
-          "2": 8
-        },
-        "temp_bucket": 1,
-        "timestamp": 1792684833,
-        "total": 13,
-        "window": 1
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 1,
-        "timestamp": 1792850024,
-        "total": 13,
-        "window": 1
-      },
-      {
-        "phases": {
-          "2": 5
-        },
-        "temp_bucket": 1,
-        "timestamp": 1793020274,
-        "total": 14,
-        "window": 1
-      },
-      {
-        "phases": {
           "2": 5
         },
         "temp_bucket": 1,
@@ -194,6 +167,33 @@
         "temp_bucket": 2,
         "timestamp": 1794106913,
         "total": 12,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 43
+        },
+        "temp_bucket": 2,
+        "timestamp": 1794201098,
+        "total": 56,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 44
+        },
+        "temp_bucket": 2,
+        "timestamp": 1794201490,
+        "total": 57,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 70
+        },
+        "temp_bucket": 2,
+        "timestamp": 1794202489,
+        "total": 82,
         "window": 1
       }
     ]
@@ -314,7 +314,7 @@
             "temperature_sensor BoxTurtle",
             "temperature_sensor OWLFC_Mini"
           ],
-          "timestamp": "2026-11-05T02:09:35Z"
+          "timestamp": "2026-11-09T02:45:33Z"
         },
         "optional": [
           "fan_generic internal_fan",
@@ -719,7 +719,7 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 0.09113842993974686
+        "heat_rate": 0.19166074693202972
       },
       "heater_bed": {
         "heat_rate": 1.2829488515853882
@@ -738,7 +738,7 @@
     }
   },
   "update": {
-    "dismissed_version": "1.0.6"
+    "dismissed_version": "1.0.8"
   },
   "wizard_completed": true
 }
