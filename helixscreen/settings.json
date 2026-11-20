@@ -108,15 +108,6 @@
       },
       {
         "phases": {
-          "2": 44
-        },
-        "temp_bucket": 2,
-        "timestamp": 1794201490,
-        "total": 57,
-        "window": 1
-      },
-      {
-        "phases": {
           "2": 70
         },
         "temp_bucket": 2,
@@ -194,6 +185,15 @@
         "temp_bucket": 2,
         "timestamp": 1794674493,
         "total": 50,
+        "window": 1
+      },
+      {
+        "phases": {
+          "2": 4
+        },
+        "temp_bucket": 2,
+        "timestamp": 1795153120,
+        "total": 655,
         "window": 1
       }
     ]
@@ -314,7 +314,7 @@
             "temperature_sensor BoxTurtle",
             "temperature_sensor OWLFC_Mini"
           ],
-          "timestamp": "2026-11-17T06:36:48Z"
+          "timestamp": "2026-11-19T23:31:01Z"
         },
         "optional": [
           "fan_generic internal_fan",
@@ -722,7 +722,7 @@
         "heat_rate": 1.669540524482727
       },
       "heater_bed": {
-        "heat_rate": 16.844053268432617
+        "heat_rate": 16.631494522094727
       }
     }
   },
