@@ -12,7 +12,7 @@
             "current_map": "T0",
             "load": true,
             "prep": true,
-            "tool_loaded": true,
+            "tool_loaded": false,
             "loaded_to_hub": true,
             "material": "PLA",
             "density": 1.24,
@@ -24,13 +24,13 @@
             "color": "#C8A36F",
             "filament_name": "Wood",
             "spool_vendor": "Elegoo",
-            "weight": 985.0443461939865,
+            "weight": 919.4812534459886,
             "extruder_temp": null,
             "bed_temp": null,
             "runout_lane": null,
-            "filament_status": "In Tool",
-            "filament_status_led": "#00007f",
-            "status": "Tooled",
+            "filament_status": "Ready",
+            "filament_status_led": "#004c00",
+            "status": "None",
             "dist_hub": 170.0,
             "td1_data": {}
         },
@@ -58,7 +58,7 @@
             "color": "#c62023",
             "filament_name": "Matte Red",
             "spool_vendor": "Creality",
-            "weight": 461.093298200616,
+            "weight": 454.1680968017855,
             "extruder_temp": null,
             "bed_temp": null,
             "runout_lane": null,
@@ -88,11 +88,11 @@
             "empty_spool_weight": 157.0,
             "need_purge": false,
             "remember_spool": false,
-            "spool_id": 211,
+            "spool_id": 210,
             "color": "#e7ebe5",
             "filament_name": "White",
             "spool_vendor": "Elegoo",
-            "weight": 35.10817780364618,
+            "weight": 79.85519264024855,
             "extruder_temp": null,
             "bed_temp": null,
             "runout_lane": null,
@@ -114,7 +114,7 @@
             "current_map": "T1",
             "load": true,
             "prep": true,
-            "tool_loaded": false,
+            "tool_loaded": true,
             "loaded_to_hub": true,
             "material": "PLA",
             "density": 1.24,
@@ -126,13 +126,13 @@
             "color": "#1BC318",
             "filament_name": "Green",
             "spool_vendor": "Elegoo",
-            "weight": 824.4479178847404,
+            "weight": 813.4168688388036,
             "extruder_temp": null,
             "bed_temp": null,
-            "runout_lane": "lane2",
-            "filament_status": "Ready",
-            "filament_status_led": "#004c00",
-            "status": "None",
+            "runout_lane": null,
+            "filament_status": "In Tool",
+            "filament_status_led": "#00007f",
+            "status": "Tool Unloading",
             "dist_hub": 174.27,
             "td1_data": {}
         }
@@ -208,13 +208,13 @@
         }
     },
     "system": {
-        "current_load": "lane1",
+        "current_load": "lane4",
         "num_units": 2,
         "num_lanes": 6,
         "num_extruders": 1,
         "extruders": {
             "extruder": {
-                "lane_loaded": "lane1"
+                "lane_loaded": "lane4"
             }
         },
         "bypass": {
