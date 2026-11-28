@@ -14,9 +14,9 @@
     "gcode_render_mode": 0,
     "glass_probe": {
       "board": "fbdev/4c/100bm/800x480/32bpp",
-      "frame_ms": 7.035466,
+      "frame_ms": 7.293899,
       "passed": false,
-      "version": "1.1.0 (e82a1bb)"
+      "version": "1.1.1 (334379d)"
     },
     "gpu_3d_blocked": false,
     "gpu_blur_blocked": false,
@@ -324,7 +324,7 @@
             "temperature_sensor BoxTurtle",
             "temperature_sensor OWLFC_Mini"
           ],
-          "timestamp": "2026-11-26T07:08:04Z"
+          "timestamp": "2026-11-28T04:02:07Z"
         },
         "optional": [
           "fan_generic internal_fan",
